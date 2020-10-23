@@ -9,7 +9,7 @@
         <link href="css/app.css" rel="stylesheet">
          </head>
     <body class="font-sans">
-        <!-- <div id="app">
+        <div id="app">
 
             <div class="container mx-auto">
                 <header class="py-6 mb-8">
@@ -57,7 +57,7 @@
             </div>
             
             <hr>
-        </div> -->
+        </div>
         <script src="/js/app.js"></script>
     </body>
 </html>
