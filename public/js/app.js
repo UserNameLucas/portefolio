@@ -1357,7 +1357,7 @@ var staticRenderFns = [
     return _c("div", { staticClass: "flex-1/10" }, [
       _c("img", {
         staticClass: "w-40 h-20",
-        attrs: { src: "images/screenshot.png", alt: "" }
+        attrs: { src: "images/logoJ.png", alt: "" }
       })
     ])
   }

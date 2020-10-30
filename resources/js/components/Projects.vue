@@ -9,7 +9,7 @@
                     <div class="text-sm"> {{project.tecnologies}}</div>  
                 </div>
                 <div class="flex-1/10">
-                    <img src="images/screenshot.png" alt="" class="w-40 h-20">
+                    <img src="images/logoJ.png" alt="" class="w-40 h-20">
                 </div>
             </li>
         </ul>
